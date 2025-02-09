@@ -14,7 +14,7 @@ cd crewai-blog-flow
 
 ```
 
-### Running 
+### Running the application 
 ```bash 
-
+uv run learning-flow
 ```
